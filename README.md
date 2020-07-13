@@ -27,6 +27,18 @@ using the int() method to make sure the number is an integer
 using the %(modulo) operator to see if the number is divisible by 2 (therefore is even)  
 if...else statement    
 print() - printing the response  
-formatting - using f formatting to fill the blanks  
+formatting - using f formatting to fill the blanks   
+
+
+##### 3. Less than ten:  
+
+Take a list and write a program that prints out all the elements of the list that are less than 5.  
+
+Skills used:  
+for loop  
+if statement  
+print()  
+< less than comparator
+
 
 

@@ -1,7 +1,8 @@
-name = input("What is your name? ")
-age = int(input("How old are you? "))
-years = 100 - age
-print(f"Hello, {name}, you will be 100 years old in {years} years!")
+
+name = input("What is your name? ")  # input for name
+age = int(input("How old are you? "))  # input for age
+years = 100 - age  # calculate how long until 100
+print(f"Hello, {name}, you will be 100 years old in {years} years!")  # print output
 
 
 ''' SOLUTION:
