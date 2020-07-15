@@ -45,12 +45,30 @@ print()
 Create a program that asks the user for a number and then prints out a list of all the divisors of that number.  
 
 Skills used:  
+defining a function  
 for loop  
 if statement  
 print()  
 < less than comparator  
-creating an empty list []
-% modulo operator
-.append() to add to empty list
+creating an empty list []  
+% modulo operator  
+.append() to add to empty list  
 
-##### 5. Divisors: 
+##### 5. List Overlap:  
+
+Take two lists and write a program that returns a list that contains only the elements that are common between the lists (without duplicates).  
+Make sure your program works on two lists of different sizes.  
+
+Skills used:  
+defining a function  
+for loop  
+if statement  
+print()  
+creating an empty list []  
+.append() to add to empty list  
+not  
+
+##### 6. List Overlap:  
+
+Ask the user for a string and print out whether this string is a palindrome or not.  
+
