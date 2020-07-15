@@ -38,7 +38,19 @@ Skills used:
 for loop  
 if statement  
 print()  
-< less than comparator
+< less than comparator  
 
+##### 4. Divisors:  
 
+Create a program that asks the user for a number and then prints out a list of all the divisors of that number.  
 
+Skills used:  
+for loop  
+if statement  
+print()  
+< less than comparator  
+creating an empty list []
+% modulo operator
+.append() to add to empty list
+
+##### 5. Divisors: 
