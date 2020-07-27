@@ -1,3 +1,0 @@
-hannah
-kayak
-racecar

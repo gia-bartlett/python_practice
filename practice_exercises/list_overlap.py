@@ -5,7 +5,7 @@ def list_overlap():
     list_c = []  # create empty list to populate with duplicates
     for i in list_a:
         if i in list_b:
-            if i not in list_c:
+            if i not in list_c:  # prevents repeated numbers from a and b
                 list_c.append(i)
     print(list_c)
 
